@@ -1,16 +1,8 @@
-# ecommercialtwo
+# Attarah Om Saleh عطارة أم صالح
 
-A new Flutter project.
 
-## Getting Started
+- Simple spices shop app - تطبيق بسيط لبيع البهارات
+- Support Arabic language - يدعم اللغة العربية
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Final App
+![Attarah-flutter](https://github.com/Norah-rsn/Attarah-shop/assets/102757083/a996ee3d-f678-4193-ad63-62ceb8ea21ab)
